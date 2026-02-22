@@ -1,0 +1,5 @@
+{
+  "name": "纸牌对抗 (Card Confrontation)",
+  "description": "一个功能完整的纸牌对抗游戏，支持单人、双人和多人模式，具备三种难度等级和AI对战功能。",
+  "requestFramePermissions": []
+}
